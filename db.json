@@ -1,0 +1,47 @@
+{
+  "posts": [
+    {
+      "title": "Title abcd",
+      "categoryId": 1,
+      "status": "dang cam thay rat vui",
+      "image": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FPh20769_Lap4-7380213f-b3ca-4a67-8c77-7ed077dfe5a3/ImagePicker/93ac9f34-c3ac-4ebe-9866-7c96a985836d.jpeg",
+      "author": "Le gia tuan",
+      "content": "day la mot chiec may tinh gaming",
+      "createdAt": 1675610904784,
+      "id": 1
+    },
+    {
+      "title": "Title abcd",
+      "categoryId": 1,
+      "status": "dang cam thay rat vui",
+      "image": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FPh20769_Lap4-7380213f-b3ca-4a67-8c77-7ed077dfe5a3/ImagePicker/93ac9f34-c3ac-4ebe-9866-7c96a985836d.jpeg",
+      "author": "Le gia tuan",
+      "content": "day la mot chiec may tinh gaming",
+      "createdAt": 1675610910691,
+      "id": 2
+    },
+    {
+      "title": "Tao là ai",
+      "categoryId": 2,
+      "status": "dang cam thay rat vui",
+      "image": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FPh20769_Lap4-7380213f-b3ca-4a67-8c77-7ed077dfe5a3/ImagePicker/93ac9f34-c3ac-4ebe-9866-7c96a985836d.jpeg",
+      "author": "Le gia tuan",
+      "content": "day la mot chiec may tinh gaming",
+      "createdAt": 1675610911121,
+      "id": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "color": "green"
+    },
+    {
+      "id": 2,
+      "color": "blue"
+    }
+  ],
+  "profile": {
+    "name": "Lê Gia Tuấn"
+  }
+}

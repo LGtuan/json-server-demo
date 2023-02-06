@@ -1,0 +1,24 @@
+{
+  "name": "json-sever-demo",
+  "version": "1.0.0",
+  "description": "How to use json-server",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon main.js",
+    "start": "node main.js",
+    "generate": "node generate.js"
+  },
+  "keywords": [
+    "json-server"
+  ],
+  "author": "LeGiaTuan",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "nodemon": "^2.0.20"
+  }
+}
